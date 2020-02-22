@@ -1,0 +1,7 @@
+ALL = "--all"
+ALL_SHORT = "-a"
+GAP_EXTENSION = "gap_extension"
+GAP_OPEN = "gap_open"
+PATH = "seq_path"
+PATH_1 = "seq_1_path"
+PATH_2 = "seq_2_path"

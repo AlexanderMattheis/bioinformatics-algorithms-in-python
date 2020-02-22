@@ -1,0 +1,16 @@
+# stores all words used in the program
+COST_FUNCTION = "cost-function: "
+GAP_COST = "gap-cost: "
+INPUT = "Input"
+OPTIMAL_ALIGNMENTS = "Optimal Alignments: "
+OPTIMAL_BASEPAIRS_NUMBER = "Maximum Number of Base pairs: "
+OPTIMAL_SCORE = "Optimal Alignment Score: "
+OPTIMAL_STRUCTURE = "Optimal Structure: "
+OTHER_PARAMETERS = "Other Parameters\n" \
+                   "Opt. Score of Tables XY, XZ, YZ:"
+OUTPUT = "Output"
+SEQUENCE_1 = "sequence 1: "
+SEQUENCE_2 = "sequence 2: "
+SEQUENCE_3 = "sequence 3: "
+TREE = "Tree in NEWICK String format: "
+UNDEFINED = "UNDEFINED"
